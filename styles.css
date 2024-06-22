@@ -114,6 +114,7 @@ nav {
 }
 
 .menu-img {
+  display: block;
   position: relative;
   flex: 3;
   overflow: hidden;
@@ -197,7 +198,13 @@ nav {
 }
 
 // Responsive
-@media (max-width: 900px) {
+@media (min-width: 767px) {
+  .menu-img {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
   .menu-img {
     display: none;
   }
