@@ -9,7 +9,7 @@ This project implements a fullscreen responsive overlay menu with an image paral
 - Responsive Design
 - GSAP Animations
 - Image Parallax Effect
-- Easy to Customize:
+- Easy to Customize
 
 ## Getting Started
 
